@@ -1,0 +1,6 @@
+﻿  Fractal.cpp
+c:\users\ivan\source\repos\fractals\fractal.cpp(20): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+c:\users\ivan\source\repos\fractals\fractal.cpp(24): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+c:\users\ivan\source\repos\fractals\fractal.cpp(34): warning C4101: y: неиспользованная локальная переменная
+c:\users\ivan\source\repos\fractals\fractal.cpp(34): warning C4101: x: неиспользованная локальная переменная
+  Fractals.vcxproj -> C:\Users\IVAN\source\repos\Fractals\Debug\Fractals.exe
